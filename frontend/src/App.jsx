@@ -1,11 +1,11 @@
-import Register from "./Register"
+import RegisterAndLoginForm from "./RegisterAndLoginForm"
 
 function App() {
 
   return (
     <>
       <div className='bg-red-500'>
-        <Register />
+        <RegisterAndLoginForm />
       </div>
     </>
   )
